@@ -13,11 +13,11 @@ define('P)r&f)!)', true); //change the pass phrase
     <section class="intro">
         <h1 >Hi I'm Simon,<br> a self-taught web developer.</h1>
         <p><span class="text-in-1">I love being creative</span><span class="text-in-3">and thrive on problem solving.</span><span class="text-in-2">For the last 30 months I have been</span><span class="text-in-4">working toward a personal
-        development</span><span class="text-in-4">plain as well as gaining freelance experience in web</span><span class="text-in-1">
+        development</span><span class="text-in-4">plan as well as gaining freelance experience in web</span><span class="text-in-1">
         development. I am keen to learn new skills</span><span class="text-in-4">whilst thinking out of the 
         box to create new and </span><span class="text-in-1">exciting projects. After being stuck in a job that</span><span class="text-in-2">
          really wasn’t for me,</span><span class="text-in-2"> I embarked on a career change by joining the Open</span><span class="text-in-3">
-        University studying towards</span><span class="text-in-1"> a BSc (Hons) in computer science. The last two</span><span class="text-in-4">
+        University, studying towards</span><span class="text-in-1"> a BSc (Hons) in computer science. The last two</span><span class="text-in-4">
         and a half years has seen</span><span class="text-in-4">me fall in love with web design and development.</span><span class="text-in-1">
         To see what skills</span><span class="text-in-3">and technologies I have under my belt please scroll on or</span><span class="text-in-2">
         have a look at my portfolio to see some of my projects.</span>   </p>
@@ -58,10 +58,10 @@ define('P)r&f)!)', true); //change the pass phrase
 <img src="responsive-web.svg" alt="">
 
 
-        <p>With Websites now accessible through a magnitude of device comes 
+        <p>With Websites now accessible through a magnitude of devices, comes 
         the challenge of smaller screens accessing web content. I believe websites
         and applications should be built to be responsive accommodating the mobile
-        or tablet use, making sure websites are fully useable and accessible to all.
+        or tablet user, making sure websites are fully useable and accessible to all.
         I have experience in designing and writing CSS media queries, giving users with
         desktop screens or a mobile devices the same experience without any limitations.        </p>
 
@@ -69,7 +69,7 @@ define('P)r&f)!)', true); //change the pass phrase
     </section>
 <section id="seo" class="seo">
 <img id="seo" class="seo-header-img" src="search-bar.svg" alt="">
-<p id="para" class="p-not-active">I have gained experience and knowledge with Search Engine Optimization (SEO) through study, and the uses of Meta tags in projects I undertake. This will give the best results for search engine list placement. By improving website content to include important keywords, I like to ensure the quality and quantity of natural or organic website traffic is high, giving clients the best opportunity to generate new or retuning clientele.   </p>
+<p id="para" class="p-not-active">I have gained experience and knowledge with Search Engine Optimization (SEO) through study, and the uses of Meta tags in projects I undertake. This will give the best results for search engine list placement. By improving website content to include important keywords, I like to ensure the quality and quantity of natural or organic website traffic is high, giving clients the best opportunity to generate new or returning clientele.   </p>
 </section>
 
     </div>

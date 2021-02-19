@@ -514,6 +514,10 @@ bottom:5rem;
 
 /* About page end */
 /* portfolio page start */
+.heading{
+    font-size:3rem;
+    padding-bottom:1rem;
+}
 .portfolio-wrapper{
     position: relative;
     top:15rem;
@@ -583,6 +587,22 @@ bottom:5rem;
 
 
 /* portfolio page end */
+/* contact me start */
+.contacts{
+    position: relative;
+    top:15rem;
+    left:3rem;
+    font-size:2rem;
+    
+}
+.contacts div{
+    display: flex;
+    padding:2rem;
+}
+.contacts a{
+    padding-left:1rem;
+}
+/* contact me end */
 
 /* responsive start */
 @media (max-width:1200px){
@@ -707,7 +727,13 @@ bottom:5rem;
             60%{bottom: 10rem; left:5rem; font-size:5rem;transform:rotate(360deg); color:rgb(9,102,194);}
             100%{bottom: -100rem; left:5rem; font-size:5rem;transform:rotate(0deg);}
         }
-        
+        .contacts{
+            position: relative;
+            top:15rem;
+            left:1rem;
+            font-size:1rem;
+            
+        }
 }
 @media(max-width:450px){
     #name-title{

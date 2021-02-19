@@ -6,7 +6,8 @@ include('inc/header.php');
 
 <section>
     <div class="portfolio-wrapper">
-        <p>Over the last two to three years, I have built little projects of my own gaining experience and confidents in web technologies learning to push myself and experiment with new ideas, and to challenge myself to expand my skill and knowledge. Through this time, I have also picked up some freelance work, which has allowed me to gain some experience in the commercial side of web design and development. Please see some of my past project below, these are just a few to offer to, and I will add more finished product as they are finished. I all so have a GitHub page if you would like to see some of my code.       </p>
+        <h1 class="heading">My Portfolio</h1>
+        <p>Over the last two to three years, I have built little projects of my own gaining experience and confidents in web technologies, learning to push myself and experimenting with new ideas. Through this time, I have also picked up some freelance work, which has allowed me to gain some experience in the commercial side of web design and development. Please see some of my past projects below, these are just a few I have to offer, and I will add more finished product as they are finished. I all so have a <a href="https://github.com/simorgan" target="blank"><u><strong> GitHub </strong></u></a> with examples of code.</p>
             <div class="portfolio-items">
                 <div class="portfolio-item item1">
                     <h1>Holly Made Cakes</h1>
