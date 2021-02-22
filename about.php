@@ -55,7 +55,7 @@ define('P)r&f)!)', true); //change the pass phrase
 
         <div class="responsive-design-flex">
 
-<img src="responsive-web.svg" alt="">
+<img src="images/responsive-web.svg" alt="image showing a responsive website">
 
 
         <p>With Websites now accessible through a magnitude of devices, comes 
@@ -68,7 +68,7 @@ define('P)r&f)!)', true); //change the pass phrase
         </div>
     </section>
 <section id="seo" class="seo">
-<img id="seo" class="seo-header-img" src="search-bar.svg" alt="">
+<img id="seo" class="seo-header-img" src="images/search-bar.svg" alt="and image of a search bar">
 <p id="para" class="p-not-active">I have gained experience and knowledge with Search Engine Optimization (SEO) through study, and the uses of Meta tags in projects I undertake. This will give the best results for search engine list placement. By improving website content to include important keywords, I like to ensure the quality and quantity of natural or organic website traffic is high, giving clients the best opportunity to generate new or returning clientele.   </p>
 </section>
 

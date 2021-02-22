@@ -11,12 +11,12 @@ include('inc/header.php');
             <div class="portfolio-items">
                 <div class="portfolio-item item1">
                     <h1>Holly Made Cakes</h1>
-                    <img src="holly-made-website.svg" alt="">
+                    <img src="images/holly-made-website.svg" alt="image showing a responsive website">
                     <p>This is a website build for a home-made cake business. This website was designed and developed to meet the customers themes and specification, as well as adding some movement to title headers using jQuery, where they will move in from the side as the users scrolls down the page. Languages used, HTML, CSS, jQuery and PHP. The contact forms have been designed with PHPmailer, which will mail inquiries to a business email plus sending an email to the user with an automated response, all built in HTML. All forms are validated with jQuery. To see a working demo please click <a href="https://www.projectsi.co.uk/test-builds/holly-made-cakes/" target="blank"><u><strong> here</strong></u></a>.    </p>
                 </div>
                 <div class="portfolio-item item2">
                     <h1>Frome RFC Website CMS setup</h1>
-                    <img src="frome-rfc.svg" alt="">
+                    <img src="images/frome-rfc.svg" alt="image showing a responsive website">
                     <p>This is a project I help with as a volunteer role. I setup and provided training for Frome RFC’s new CMS, as well as help manage the running on this website. The content of the website is added and managed internally, and I help with any functionalities beyond their scope. I have built a few pages and content with custom HTML and CSS offering a bit of customization to the website. This wensite can be seen <a href="https://fromerfc.rfu.club/" target="blank"><u><strong> here</strong></u></a>.   </p>
                 </div>
         </div>
