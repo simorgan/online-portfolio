@@ -354,19 +354,17 @@ span{
     text-align: end;
     font-size:3rem;
     margin-bottom: 1rem;
-  
+    transform: translateX(-100%)
 }
-.tech-not-active{
-    display: none;
-}
+
 .tech-active{
     animation: techHeadIn 1s linear forwards;
-    display: block;
+    animation-delay: 1s;
 }
 @keyframes techHeadIn{
-    0%{transform: translate(0%) rotateX(0deg)}
-    50%{transform: translate(-50%) rotateX(360deg)}
-    0%{transform: translate(-100%) rotateX(720deg)}
+    0%{transform: translateX(-100%) rotateX(0deg)}
+    50%{transform: translateX(-50%) rotateX(360deg)}
+    100%{transform: translateX(0%) rotateX(720deg)}
 }
 .technologies-skill table{
     width: 80%;
@@ -414,15 +412,11 @@ svg{
     fill:rgb(65, 65, 65);
 }
 
-
 .responsive-design-flex{
 display: flex;
 align-items: center;
 font-size:0.1rem;
 }
-
-
-
 .responsive-design-flex p{
     order: 1;
 }
@@ -432,42 +426,36 @@ font-size:0.1rem;
     padding-left:1rem;
     
 }
-.responsive-design-not-active{
-    display: none;
-}
-
 .responsive-design h1{
     font-size:3rem;
     margin-bottom: 1rem; 
 }
-
-
 
 .responsive-design img{
     width:20rem;
 }
 .responsive-design-active h1{
     animation: responsive-h1 2s linear forwards;
-    
+    animation-delay: 1s;
 }
 .responsive-design-active p{
     animation: responsive-p 2s linear forwards;
-    
+    animation-delay: 1s;
 }
 .responsive-design-active img{
     animation: responsive-img 2s linear forwards;
-
+    animation-delay: 1s;
 }
 @keyframes responsive-h1 {
-    0%{font-size:10%; display: block;}
+    0%{font-size:10%;}
     100%{font-size:3rem}
 }
 @keyframes responsive-p {
-    0%{max-width: 2rem;font-size:0.2rem; display: block;}
+    0%{max-width: 2rem;font-size:0.2rem; }
     100%{max-width: 100%;font-size:1.5rem}
 }
 @keyframes responsive-img {
-    0%{max-width: 1rem;display: block;}
+    0%{max-width: 1rem;display: }
     100%{max-width: 100%;}
 }
 .seo{

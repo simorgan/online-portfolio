@@ -12,7 +12,7 @@ include('inc/header.php');
     <i class="fas fa-mobile-android"></i> <a href="tel:07708526086">07708526086</a>
     </div>
     <div>
-    <i class="fal fa-at"></i> <a href="mailto:simonmorgan1000@hotmail.com">simonmorgan1000@hotmail.com</a>
+    <i class="fal fa-at"></i> <a href="mailto:simon@simonmorgan.uk">simon@simonmorgan.uk</a>
     </div>
     <div>
     <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/si-morgan/" target="blank">LinkedIn</a>

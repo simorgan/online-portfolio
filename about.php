@@ -24,7 +24,7 @@ define('P)r&f)!)', true); //change the pass phrase
     </section>
 
     <section class="technologies-skill">
-        <h1 id="techHeader" class="techHeader tech-not-active">Technologies and Tools</h1>
+        <h1 id="techHeader" class="techHeader">Technologies and Tools</h1>
 
         
         <table>
@@ -50,7 +50,7 @@ define('P)r&f)!)', true); //change the pass phrase
             </tr>
         </table>
     </section>
-    <section id="responsiveDesign" class="responsive-design responsive-design-not-active">
+    <section id="responsiveDesign" class="responsive-design">
         <h1>Responsive Design</h1>
 
         <div class="responsive-design-flex">

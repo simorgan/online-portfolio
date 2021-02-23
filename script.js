@@ -7,9 +7,4 @@ $(document).ready(function () {
         $(".burger").toggleClass("toggle")
     })
 
-
-
-
-
-
 })
